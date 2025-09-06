@@ -1,0 +1,11 @@
+(defun fibonacci (n)
+  (let ((a 0)
+        (b 1))
+    (dotimes (i n)
+      (let ((temp a))
+        (setf a b)
+        (setf b (+ b temp))))
+    a))
+
+(let ((result (fibonacci 100000)))
+  (format t "~a~%" result))

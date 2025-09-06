@@ -1,0 +1,18 @@
+Language,Average_Time_Seconds
+Python,.0770
+Ruby,.1173
+Rust,.0010
+C++,.0013
+C,.0009
+TypeScript,.0211
+JavaScript,.0206
+Java,.0148
+PHP,.0092
+C#,.9455
+Go,.0011
+Lisp (SBCL),.0412
+Bash,.2195
+Assembly,.0009
+Zig,.0007
+Kotlin,.1904
+Perl,9.1146
